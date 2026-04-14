@@ -11,7 +11,7 @@
 - [x] CTS-23373
 - [x] kurrna
 - [x] morty80085
-- [ ] Noel261
+- [x] Noel261
 - [x] REROSAMA
 - [x] wangsu2006
 - [x] xx6677-c
